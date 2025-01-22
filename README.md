@@ -1,4 +1,4 @@
-### <img src="https://github.com/Aravindhyox/aravindhyox.github.io/blob/main/main-imgs/previous_normal.png" width="20" /> Hi there! <img src="https://github.com/Aravindhyox/aravindhyox.github.io/blob/main/main-imgs/next_normal.png" width="20" />
+<img src="https://github.com/Aravindhyox/aravindhyox.github.io/blob/main/main-imgs/previous_normal.png" width="20" /> Hi there! <img src="https://github.com/Aravindhyox/aravindhyox.github.io/blob/main/main-imgs/next_normal.png" width="20" />
 
 ### <img src="https://github.com/Aravindhyox/aravindhyox.github.io/blob/main/main-imgs/hackerboy.png" width="40" /> About Me:
 - 🏦 I'm a Bugbounty hunter
