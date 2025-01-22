@@ -1,9 +1,29 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there!
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <p align="center">
-<a href="https://x.com/aravindhyox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="X" height="30" width="30" /></a>&nbsp;
-<a href="https://youtube.com/aravindhyox/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Youtube" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/aravindhyox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/Aravindhyox"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<div class="Contact">
+
+<div class="ico">
+<a href="https://github.com/Aravindhyox/">
+	<i class="fa fa-github  social" title="Github" ></i>
+</a>
+</div>
+
+<div class="ico">
+<a href="https://twitter.com/aravindhyox">
+	<i class="fa fa-twitter social" title="Twitter " ></i>
+</a>
+</div>
+
+<div class="ico">
+<a href="mailto:aravindhyox@gmail.com">   
+	<i class="fa fa-envelope social" title="E-Mail" ></i>
+</a>
+</div>
+
+</div>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
