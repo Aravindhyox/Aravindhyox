@@ -1,5 +1,3 @@
-# Hi There!
-
 ### <img src="https://github.com/Aravindhyox/aravindhyox.github.io/blob/main/main-imgs/hackerboy.png" width="40" /> About Me:
 - 🏦 I'm a Bugbounty hunter
 - .. .-.. --- ...- . -.-- --- ..- 🤏🏻
