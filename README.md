@@ -8,6 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhyox&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Aravindhyox/github-readme-stats)
 
 <!--START_SECTION:waka-->
+## JavaScript Progress Bar
+
+You can view the source code for the JavaScript progress bar in the [progress.js file](./path/to/progress.js).
 
 <!--END_SECTION:waka-->
 
