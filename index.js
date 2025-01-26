@@ -16,5 +16,10 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
+const readme = `Current Year Progress:
+${progressBarOfThisYear}
+
+Month Names: ${monthNames.join(', ')}`;
+
+console.log(readme);
 
