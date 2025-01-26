@@ -1,3 +1,6 @@
+## JavaScript Progress Bar Code
+
+```javascript
 const thisYear = new Date().getFullYear();
 
 // Helper function to generate progress bar based on progress value
