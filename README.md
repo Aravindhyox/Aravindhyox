@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">About 👤</summary>
+  
   <div align="center">
     <h2 style="color: #2c3e50;">About this Account</h2>
     <p style="font-size: 1.2em;">
