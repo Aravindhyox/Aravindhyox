@@ -3,6 +3,9 @@
   <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">Cyber Security Researcher & Bug bounty Hunter. Take a look at my <a href="https://aravindhyox.github.io/" target="_blank">website</a> for more information.</h4>
 </div>
 
+
+
+
 <h4 style="color: #2e8b57; font-size: 1.8em;">snake</h4>
 
 <hr style="border: 1px solid #6D2D98; margin: 20px 0;">
@@ -13,7 +16,8 @@
   </a>
 </div>
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
+
 
 <hr <h4 style="color: #2e8b57; font-size: 1.8em;">Contact</h4>
 
@@ -32,6 +36,9 @@
       </a>
       <a href="https://twitter.com/aravindhyox" target="_blank">
         <img src="resources/twitter.png" alt="x" style="height: 30px; margin: 0 5px;">
+      </a>
+      <a href="https://www.youtube.com/@aravindhyox" target="_blank">
+        <img src="resources/youtube.png" alt="Youtube" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
   </div>
