@@ -34,7 +34,6 @@
   </div>
 </details>
 
-<details>
   
   <div align="center">
     <h2 style="color: #2c3e50;">About this Account</h2>
@@ -57,7 +56,7 @@
       </a>
     </p>
   </div>
-</details>
+
 
 <details>
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">GitHub Profile Stats 💻</summary>
