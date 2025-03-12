@@ -67,7 +67,7 @@
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
-<h4 style="color: #2e8b57; font-size: 1.8em;">Related Accounts</h4>
+<h4 style="color: #2e8b57; font-size: 3em;">Related Accounts</h4>
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;">
@@ -118,14 +118,24 @@
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <h3 style="color: #2e8b57; font-size: 1.8em;">Support</h3>
+
 <p style="font-size: 1.2em;">If you’re feeling generous or just really like caffeine, consider buying me a coffee:</p>
 
-<div align="left" style="margin-top: 20px;">
-  <a href="https://www.buymeacoffee.com/azzar" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px; width: 151.9px; border: 2px solid #ff6347; border-radius: 5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+<div align="center" style="margin-top: 20px;">
+  
+  <a href="https://www.buymeacoffee.com/aravindhyox" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px; width: 151.9px; border: 2px solid #ff6347; border-radius: 5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  </a>
+</div>
+ <br> (or) <br><br>
+<div>
+  <a >
+        <img src="resources/bitcoin-cryptocurrency.svg" alt="bitcoin" style="height: 42px; width: 151.9px; border: 2px solid #ff6347; border-radius: 5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2); text-decoration: none;"> <h4 style="color: #2e8b57; font-size: 3em;">bc1q2s0t0nya6yxu7753u2063l30jknx24hlhc4q9x</h4>
   </a>
 </div>
 
+
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
+
+Credits: [1999AZZAR](https://github.com/1999AZZAR)  
