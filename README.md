@@ -1,9 +1,9 @@
 <div align="center">
   <h1 style="font-size: 3em; color: #e74c3c; text-align: center; text-shadow: 3px 3px #bdc3c7;">Hello, I'm AravindhYox,</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">Cyber Security Researcher & Bug bounty Hunter. Take a look at my<a href="https://aravindhyox.github.io/" target="_blank">website</a> for more information.</h4>
+  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">Cyber Security Researcher & Bug bounty Hunter. Take a look at my <a href="https://aravindhyox.github.io/" target="_blank">website</a> for more information.</h4>
 </div>
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<hr style="border: 1px solid #6D2D98; margin: 20px 0;">
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
