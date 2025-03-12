@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://aravindhyox.github.io/">
-    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+    <img src="/resources/grid-snake.svg" alt="snake-grid" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
 
@@ -19,18 +19,18 @@
     <h2 style="color: #2c3e50;">You can find me on:</h2>
     <p style="font-size: 1.2em;">
       <a href="https://www.linkedin.com/in/aravindhyox/" target="_blank">
-        <img src="resources/linkedin.png" alt="aravindhyox" style="height: 30px; margin: 0 5px;">
+        <img src="resources/linkedin.png" alt="linkedin" style="height: 30px; margin: 0 5px;">
       </a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" style="height: 30px; margin: 0 5px;">
+      <a href="mailto:aravindhyox@gmail.com" target="_blank">
+        <img src="resources/mail.png" alt="mail" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
     <p style="font-size: 1.2em;">
-      <a href="https://instagram.com/azzar_budiyanto" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="azzar" style="height: 30px; margin: 0 5px;">
+      <a href="https://medium.com/@aravindhyox" target="_blank">
+        <img src="resources/medium.svg" alt="medium" style="height: 30px; margin: 0 5px;">
       </a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="_blank">
-        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsiapa_hayosiapa" alt="azzar" style="height: 30px; margin: 0 5px;">
+      <a href="https://twitter.com/aravindhyox" target="_blank">
+        <img src="resources/twitter.png" alt="x" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
   </div>
