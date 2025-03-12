@@ -3,9 +3,6 @@
   <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">Cyber Security Researcher & Bug bounty Hunter. Take a look at my <a href="https://aravindhyox.github.io/" target="_blank">website</a> for more information.</h4>
 </div>
 
-
-
-
 <h4 style="color: #2e8b57; font-size: 1.8em;">snake</h4>
 
 <hr style="border: 1px solid #6D2D98; margin: 20px 0;">
@@ -16,35 +13,33 @@
   </a>
 </div>
 
+<hr style="border: 1px solid #6D2D98; margin: 20px 0;">
 
-
-
-<hr <h4 style="color: #2e8b57; font-size: 1.8em;">Contact</h4>
-
+<h4 style="color: #2e8b57; font-size: 1.8em;">Contact</h4>
 
   <div align="center">
-    <h2 style="color: #2c3e50;">You can find me on:</h2>
-    <p style="font-size: 1.2em;">
-      <a href="https://www.linkedin.com/in/aravindhyox/" target="_blank">
-        <img src="resources/linkedin.png" alt="linkedin" style="height: 30px; margin: 0 5px; padding: 40px;">
-      </a> 
-      <a href="mailto:aravindhyox@gmail.com" target="_blank">
-        <img src="resources/mail.png" alt="mail" style="height: 30px; margin: 0 5px;">
-      </a>
-      <a href="https://medium.com/@aravindhyox" target="_blank">
-        <img src="resources/medium.svg" alt="medium" style="height: 30px; margin: 0 5px;">
-      </a>
-      <a href="https://twitter.com/aravindhyox" target="_blank">
-        <img src="resources/twitter.png" alt="x" style="height: 30px; margin: 0 5px;">
-      </a>
-      <a href="https://www.youtube.com/@aravindhyox" target="_blank">
-        <img src="resources/youtube.png" alt="Youtube" style="height: 30px; margin: 0 5px;">
-      </a>
-    </p>
-  </div>
+  <h2 style="color: #2c3e50;">Find me on social:</h2>
+  <p style="font-size: 1.2em; margin: 25px; padding: 40px;">
+    <a href="https://www.linkedin.com/in/aravindhyox/" target="_blank">
+      <img src="resources/linkedin.png" alt="linkedin" style="height: 30px; margin: 0 15px;">
+    </a> 
+    <a href="mailto:aravindhyox@gmail.com" target="_blank">
+      <img src="resources/mail.png" alt="mail" style="height: 30px; margin: 0 15px;">
+    </a>
+    <a href="https://twitter.com/aravindhyox" target="_blank">
+      <img src="resources/twitter.png" alt="x" style="height: 30px; margin: 0 15px;">
+    </a>
+    <a href="https://www.youtube.com/@aravindhyox" target="_blank">
+      <img src="resources/youtube.png" alt="Youtube" style="height: 30px; margin: 0 15px;">
+    </a>
+  </p>
+</div>
 
 
-  
+<hr style="border: 1px solid #6D2D98; margin: 20px 0;">
+
+<h4 style="color: #2e8b57; font-size: 1.8em;">Contact</h4>
+
   <div align="center">
     <h2 style="color: #2c3e50;">About this Account</h2>
     <p style="font-size: 1.2em;">
