@@ -3,7 +3,7 @@
   <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">Cyber Security Researcher & Bug bounty Hunter. Take a look at my <a href="https://aravindhyox.github.io/" target="_blank">website</a> for more information.</h4>
 </div>
 
-***snake***
+<h4 style="color: #2e8b57; font-size: 1.8em;">snake</h4>
 
 <hr style="border: 1px solid #6D2D98; margin: 20px 0;">
 
@@ -15,7 +15,8 @@
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
-***Contact***
+<hr <h4 style="color: #2e8b57; font-size: 1.8em;">Contact</h4>
+
 
   <div align="center">
     <h2 style="color: #2c3e50;">You can find me on:</h2>
