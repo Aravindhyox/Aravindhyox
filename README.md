@@ -24,8 +24,6 @@
       <a href="mailto:aravindhyox@gmail.com" target="_blank">
         <img src="resources/mail.png" alt="mail" style="height: 30px; margin: 0 5px;">
       </a>
-    </p>
-    <p style="font-size: 1.2em;">
       <a href="https://medium.com/@aravindhyox" target="_blank">
         <img src="resources/medium.svg" alt="medium" style="height: 30px; margin: 0 5px;">
       </a>
