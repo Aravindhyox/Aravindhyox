@@ -14,9 +14,9 @@
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">Contact Me ☎️</summary>
+  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">Contact </summary>
   <div align="center">
-    <h2 style="color: #2c3e50;">You can reach me by:</h2>
+    <h2 style="color: #2c3e50;">You can find me on:</h2>
     <p style="font-size: 1.2em;">
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" style="height: 30px; margin: 0 5px;">
