@@ -19,7 +19,7 @@
     <h2 style="color: #2c3e50;">You can find me on:</h2>
     <p style="font-size: 1.2em;">
       <a href="https://www.linkedin.com/in/aravindhyox/" target="_blank">
-        <img src="resources/linkedin.png" alt="linkedin" style="height: 30px; margin: 4px;">
+        <img src="resources/linkedin.png" alt="linkedin" style="height: 30px; margin: 40px;">
       </a> 
       <a href="mailto:aravindhyox@gmail.com" target="_blank">
         <img src="resources/mail.png" alt="mail" style="height: 30px; margin: 0 5px;">
