@@ -42,56 +42,27 @@
 
 <hr style="border: 1px solid #6D2D98; margin: 20px 0;">
 
-<details>
-  <div align="center">
-    <h2 style="color: #2c3e50;">GitHub Stats</h2>
-    <details>
-      <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">General</summary>
-        <table align="center">
-          <tr border="0">
-            <td width="50%" align="center"> 
-              <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=aravindhyox&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-            </td>
-            <td width="50%" align="center">
-              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=aravindhyox&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
-            </td>
-          </tr>
-        </table>
-        <div align="center">
-          <p>
-            <a href="https://github.com/aravindhyox" target="_blank">
-              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aravindhyox&theme=gruvbox&hide_border=true" alt="GitHub Profile Summary" style="border-radius: 10px; margin: 0 5px;">
-            </a>
-          </p>
-        </div>
-    </details>
-    <details>
-      <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">Language</summary>
-        <table align="center">
-          <tr border="0">
-            <td width="50%" align="center"> 
-              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aravindhyox&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by repo">
-              <br></br>
-              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aravindhyox&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by commit">
-            </td>
-            <td width="50%" align="center">
-              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhyox&langs_count=6&theme=gruvbox&hide_border=true" alt="overall Top Langs">
-            </td>
-          </tr>
-        </table>
-    </details>
-  </div>
 
-  <details open>
-    <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">Recent Activity</summary>
-    <div align="center">
-      <p>
-        <a href="https://github.com/1999AZZAR" target="_blank">
-          <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aravindhyox&theme=github-compact&hide_border=true" style="border-radius: 10px; margin: 0 5px;">
-        </a>
-      </p>
-    </div>
-  </details>
+  <div align="center">
+      <h4 style="font-size: 5.5em; color: #2980b9; text-align: center; margin-top: -10px;"> GitHub Stats </h4>
+      
+<table align="center">
+          
+  <tr border="0">
+    
+  <td width="50%" align="center"> 
+              <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com user=aravindhyox&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+      </td>
+      
+  <td width="50%" align="center">
+              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=aravindhyox&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
+  </td>
+       
+   </tr>
+  </table>
+  
+      
+ 
 </details>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
