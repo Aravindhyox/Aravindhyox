@@ -20,8 +20,7 @@
     <p style="font-size: 1.2em;">
       <a href="https://www.linkedin.com/in/aravindhyox/" target="_blank">
         <img src="resources/linkedin.png" alt="linkedin" style="height: 30px; margin: 0 5px;">
-      </a>
-      <br>
+      </a> <br>
       <a href="mailto:aravindhyox@gmail.com" target="_blank">
         <img src="resources/mail.png" alt="mail" style="height: 30px; margin: 0 5px;">
       </a>
