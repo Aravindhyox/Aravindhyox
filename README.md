@@ -18,8 +18,8 @@
   <div align="center">
     <h2 style="color: #2c3e50;">You can find me on:</h2>
     <p style="font-size: 1.2em;">
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" style="height: 30px; margin: 0 5px;">
+      <a href="https://www.linkedin.com/in/aravindhyox/" target="_blank">
+        <img src="resources/linkedin.png" alt="aravindhyox" style="height: 30px; margin: 0 5px;">
       </a>
       <a href="mailto:azzar.mr.zs@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" style="height: 30px; margin: 0 5px;">
