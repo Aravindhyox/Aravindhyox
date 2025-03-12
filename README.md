@@ -51,7 +51,7 @@
   <tr border="0">
     
   <td width="50%" align="center"> 
-              <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com user=aravindhyox&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhyox&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="GitHub Streak">
       </td>
       
   <td width="50%" align="center">
