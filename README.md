@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;"> Get in touch </h4>
+  <h3 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;"> Get in Touch </h3>
   
   <p style="font-size: 8em; ">
     
@@ -44,14 +44,14 @@
 
 
   <div align="center">
-      <h4 style="font-size: 5.5em; color: #2980b9; text-align: center; margin-top: -10px;"> GitHub Stats </h4>
+      <h3 style="font-size: 5em; color: #2980b9; text-align: center; margin-top: -10px;"> GitHub Stats </h3>
       
 <table align="center">
           
   <tr border="0">
     
-  <td width="50%" align="center"> 
-              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhyox&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="GitHub Streak">
+  <td width="450px"  align="center"> 
+              <img align="center" width="100%" hight="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhyox&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="GitHub Streak">
       </td>
       
   <td width="50%" align="center">
@@ -72,7 +72,7 @@
   <tr>
     <td align="center" style="border: none;">
       <a href="https://hackerone.com/aravindhyox01" target="_blank" style="text-decoration: none;">
-        <img alt="h1" src="resources/h1.png" style="width: 16px; border-radius: 10px; margin: 0 5px;">
+        <img alt="h1" src="resources/hacker1.svg" style="width: 16px; border-radius: 10px; margin: 0 5px;">
         <br>
         <span>hacker1</span>
       </a>
@@ -86,7 +86,7 @@
     </td>
     <td align="center" style="border: none;">
       <a href="https://medium.com/@aravindhyox" target="_blank" style="text-decoration: none;">
-        <img alt="medium" src="resources/medium.svg" style="width: 24px; border-radius: 10px; margin: 0 5px;">
+        <img alt="medium" src="resources/medium.png" style="width: 24px; border-radius: 10px; margin: 0 5px;">
         <br>
         <span>medium</span>
       </a>
