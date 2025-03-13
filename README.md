@@ -67,7 +67,7 @@
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
-<h4 style="color: #2e8b57; font-size: 3em;">Related Accounts</h4>
+<h3 style="color: #2e8b57; font-size: 3em;">Related Accounts</h3>
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;">
