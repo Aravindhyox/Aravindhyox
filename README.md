@@ -106,7 +106,7 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="https://link.chess.com/friend/5ZFU6E" target="_blank" style="text-decoration: none;">
+      <a href="https://www.chess.com/member/aravindhyox" target="_blank" style="text-decoration: none;">
         <img alt="chess" src="resources/chess.png" style="width: 21px; border-radius: 10px; margin: 0 5px;">
         <br>
         <span>chess.com</span>
